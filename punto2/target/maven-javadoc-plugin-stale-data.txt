@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Bianca/Desktop/POO2/Tp3Parte2/punto2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Bianca/Desktop/POO2/Tp3Parte2/punto2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'punto2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'punto2 1.0-SNAPSHOT API'
+com.parte2
+com.parte2.modelo
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\src\main\java = 1730372075189
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\allclasses-index.html = 1730373855005
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\allpackages-index.html = 1730373855016
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\copy.svg = 1730373855182
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\element-list = 1730373854606
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\help-doc.html = 1730373855132
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\index-all.html = 1730373855100
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\index.html = 1730373854942
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\link.svg = 1730373855197
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\member-search-index.js = 1730373855040
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\module-search-index.js = 1730373855022
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\overview-summary.html = 1730373855118
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\overview-tree.html = 1730373854922
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\package-search-index.js = 1730373855026
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\script.js = 1730373855161
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\search-page.js = 1730373855244
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\search.html = 1730373855109
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\search.js = 1730373855225
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\stylesheet.css = 1730373855151
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\tag-search-index.js = 1730373855046
+C:\Users\Bianca\Desktop\POO2\Tp3Parte2\punto2\target\reports\apidocs\type-search-index.js = 1730373855030
