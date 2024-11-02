@@ -8,10 +8,10 @@ ___
 <h3 style="text-align: center;">Patrones de Diseño</h3>
 
 ###### Alumnos:
->Gigena, Maximo
->Eitner, Bianca Michelle
->Fernandez, Lautaro
->Lovera, Hernan
+> - Gigena, Maximo
+> - Eitner, Bianca Michelle
+> - Fernandez, Lautaro
+> - Lovera, Hernan
 
 
 ### Patrón Strategy - Métodos de Envío en una Tienda en Línea
