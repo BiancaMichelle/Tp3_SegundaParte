@@ -13,6 +13,9 @@ ___
 > - Fernandez, Lautaro
 > - Lovera, Hernan
 
+### Patrón State - Funcionamiento dinámico de un Semáforo
+![Semaforo - Diagrama de Clases](https://github.com/user-attachments/assets/db502dff-b7d9-458d-893e-518f997e83f2)
+El patrón State es ideal cuando poseemos múltiples estados que alteran el comportamiento de un objeto. En el escenario de un semáforo, los estados de "ROJO", "AMARILLO" y "VERDE" implican la ejecución de comportamientos distintos, es aquí donde se aprovechan las ventajas de este patrón, al evitar que todos los comportamientos de los estados formen un bloque de condicionales dentro de la clase. Al separase los estados en clases distintas, el código se vuelve mucho más eficiente, mantenible y escalable.
 
 ### Patrón Strategy - Métodos de Envío en una Tienda en Línea
 ![MetodosEnvíoUML](https://github.com/user-attachments/assets/63e51bf6-6c15-4b54-8e5e-759c5985d72b)
